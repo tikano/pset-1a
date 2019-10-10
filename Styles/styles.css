@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Ravi+Prakash&text=ABab');
+@import url('https://fonts.googleapis.com/css?family=Jolly+Lodger&text=CDcd');
+@import url('https://fonts.googleapis.com/css?family=Henny+Penny&text=EFef');
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy&text=GHgh');
+@import url('https://fonts.googleapis.com/css?family=Ribeye+Marrow&text=IJij');
+@import url('https://fonts.googleapis.com/css?family=Ribeye&text=KLkl');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC&text=MNmn');
+@import url('https://fonts.googleapis.com/css?family=Finger+Paint&text=OPop');
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&text=QRqr');
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One&text=STst');
+@import url('https://fonts.googleapis.com/css?family=Miltonian&text=UVuv');
+@import url('https://fonts.googleapis.com/css?family=Irish+Grover&text=WXwx');
+@import url('https://fonts.googleapis.com/css?family=Atma&text=YZyz');
+@import url('https://fonts.googleapis.com/css?family=Barriecito&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -36,4 +50,8 @@ ul {
   font-variant: normal; 
   font-weight: 700; 
   line-height: 26.4px;
+}
+#header1{
+	font-family: 'Ravi Prakash', 'Jolly Lodger', 'Henny Penny', 'Luckiest Guy', 'Ribeye Marrow', 'Ribeye', 'Bowlby One', 'Finger Paint', 'Fredoka One', 'Sigmar One', 'Miltonian', 'Irish Grover', 'Atma', 'Barriecito';
+  font-size: 30;
 }
