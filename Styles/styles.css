@@ -24,5 +24,5 @@ ul {
   background-color: yellow;
 }
 .list {
-  background-color: lightblue;
+  background-color: lightblue !important;
 }
