@@ -11,7 +11,6 @@
 @import url('https://fonts.googleapis.com/css?family=Miltonian&text=UVuv');
 @import url('https://fonts.googleapis.com/css?family=Irish+Grover&text=WXwx');
 @import url('https://fonts.googleapis.com/css?family=Atma&text=YZyz');
-@import url('https://fonts.googleapis.com/css?family=Barriecito&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -52,6 +51,6 @@ ul {
   line-height: 26.4px;
 }
 #header1{
-	font-family: 'Ravi Prakash', 'Jolly Lodger', 'Henny Penny', 'Luckiest Guy', 'Ribeye Marrow', 'Ribeye', 'Bowlby One', 'Finger Paint', 'Fredoka One', 'Sigmar One', 'Miltonian', 'Irish Grover', 'Atma', 'Barriecito';
+  font-family: 'Ravi Prakash', 'Jolly Lodger', 'Henny Penny', 'Luckiest Guy', 'Ribeye Marrow', 'Ribeye', 'Bowlby One', 'Finger Paint', 'Fredoka One', 'Sigmar One', 'Miltonian', 'Irish Grover', 'Atma';
   font-size: 30;
 }
