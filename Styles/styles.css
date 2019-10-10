@@ -35,6 +35,8 @@ ul {
 }
 .tabl {
   background-color: yellow;
+  resize: both;
+  overflow: auto;
 }
 .list {
   background-color: lightblue !important;
@@ -52,14 +54,14 @@ ul {
 }
 #header1{
   font-family: 'Ravi Prakash', 'Jolly Lodger', 'Henny Penny', 'Luckiest Guy', 'Ribeye Marrow', 'Ribeye', 'Bowlby One', 'Finger Paint', 'Fredoka One', 'Sigmar One', 'Miltonian', 'Irish Grover', 'Atma', "cursive";
-  animation-name: example;
+  animation-name: flash;
   animation-duration: 2s;
   animation-iteration-count: infinite;
 }
 #header1:hover{
   
 }
-@keyframes example {
+@keyframes flash {
   0%   {background-color:red;}
   25%  {background-color:yellow;}
   50%  {background-color:blue; }
