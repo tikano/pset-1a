@@ -52,5 +52,12 @@ ul {
 }
 #header1{
   font-family: 'Ravi Prakash', 'Jolly Lodger', 'Henny Penny', 'Luckiest Guy', 'Ribeye Marrow', 'Ribeye', 'Bowlby One', 'Finger Paint', 'Fredoka One', 'Sigmar One', 'Miltonian', 'Irish Grover', 'Atma', "cursive";
-  font-size: 30;
 }
+#header1:hover{
+    animation: blinker 1s linear infinite;
+    @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+
