@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background: red;
+  background-color: red;
 }
 p {
   font-family: "Comic Sans MS", "Comic Sans", "cursive";
@@ -18,8 +18,8 @@ ul {
 }
 .navigation {
   border: 5px solid blue;
-  background: green;
+  background-color: green;
 }
 .tabl {
-  background: yellow;
+  background-color: yellow;
 }
