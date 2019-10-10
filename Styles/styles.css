@@ -13,4 +13,7 @@ h1 {
 ul {
   font-family: "Comic Sans MS", "Comic Sans", "cursive";
 }
-
+.navigation {
+  color: black;
+  border: 1px solid blue;
+}
