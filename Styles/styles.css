@@ -35,8 +35,6 @@ ul {
 }
 .tabl {
   background-color: yellow;
-  resize: both;
-  overflow: auto;
 }
 .list {
   background-color: lightblue !important;
