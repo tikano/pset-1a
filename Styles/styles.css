@@ -53,7 +53,7 @@ ul {
 #header1{
   font-family: 'Ravi Prakash', 'Jolly Lodger', 'Henny Penny', 'Luckiest Guy', 'Ribeye Marrow', 'Ribeye', 'Bowlby One', 'Finger Paint', 'Fredoka One', 'Sigmar One', 'Miltonian', 'Irish Grover', 'Atma', "cursive";
   animation-name: flash;
-  animation-duration: 2s;
+  animation-duration: 0.5s;
   animation-iteration-count: infinite;
 }
 #header1:hover{
