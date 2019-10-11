@@ -69,4 +69,6 @@ ul {
 a[href="https://www.ucvts.tec.nj.us"] {
   color: red;
 ]
-
+ul li {
+    border: 1px solid black;
+}
