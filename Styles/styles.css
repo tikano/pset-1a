@@ -53,7 +53,7 @@ ul {
 #header1{
   font-family: 'Ravi Prakash', 'Jolly Lodger', 'Henny Penny', 'Luckiest Guy', 'Ribeye Marrow', 'Ribeye', 'Bowlby One', 'Finger Paint', 'Fredoka One', 'Sigmar One', 'Miltonian', 'Irish Grover', 'Atma', "cursive";
   animation-name: flash;
-  animation-duration: 0.05s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
 }
 #header1:hover{
@@ -66,4 +66,7 @@ ul {
   75%  {background-color:green;}
   100% {background-color:red; }
 }
+a[href="https://www.ucvts.tec.nj.us"] {
+  color: red;
+]
 
